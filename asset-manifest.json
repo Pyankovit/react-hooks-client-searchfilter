@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hooks-client-searchfilter/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-hooks-client-searchfilter/static/js/main.06475a05.chunk.js",
+    "main.js.map": "/react-hooks-client-searchfilter/static/js/main.06475a05.chunk.js.map",
+    "runtime-main.js": "/react-hooks-client-searchfilter/static/js/runtime-main.986c7001.js",
+    "runtime-main.js.map": "/react-hooks-client-searchfilter/static/js/runtime-main.986c7001.js.map",
+    "static/js/2.ec4541ca.chunk.js": "/react-hooks-client-searchfilter/static/js/2.ec4541ca.chunk.js",
+    "static/js/2.ec4541ca.chunk.js.map": "/react-hooks-client-searchfilter/static/js/2.ec4541ca.chunk.js.map",
+    "index.html": "/react-hooks-client-searchfilter/index.html",
+    "precache-manifest.06517a0a6d5da2bcba3cd5bc3ce84e74.js": "/react-hooks-client-searchfilter/precache-manifest.06517a0a6d5da2bcba3cd5bc3ce84e74.js",
+    "service-worker.js": "/react-hooks-client-searchfilter/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-hooks-client-searchfilter/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.986c7001.js",
+    "static/js/2.ec4541ca.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.06475a05.chunk.js"
+  ]
+}
